@@ -1,0 +1,24 @@
+{
+  "name": "3_7_16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d1son/lab_3_7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d1son/lab_3_7/issues"
+  },
+  "homepage": "https://github.com/d1son/lab_3_7#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0",
+    "scraperjs": "^1.2.0"
+  }
+}
